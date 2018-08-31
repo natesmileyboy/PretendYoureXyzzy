@@ -103,7 +103,7 @@ to, for instance, display the number of connected players.
       <li>Global and game chats now have different messages-per-unit-time settings and counters.
       </li>
       <li>You may not repeat the same message multiple times in a row.</li>
-      <li>Certain characters and words will cause a message to be silently dropped (that is, instead
+      <li>certain characters and words will cause a message to be silently dropped (that is, instead
       of returning an error message to the person who typed it like all of the previous things will,
       the server will just ignore the message altogether so that user does not know their message
       was ignored). There are currently two things on this list, and no, I'm not telling you what
